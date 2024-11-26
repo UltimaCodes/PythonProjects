@@ -1,4 +1,4 @@
-// A Program that visualizes and calculates an estimate of pi of a 4 Dimensional Hypersphere
+# A Program that visualizes and calculates an estimate of pi of a 4 Dimensional Hypersphere
 
 import numpy as np
 import time
