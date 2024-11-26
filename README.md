@@ -1,2 +1,2 @@
 # PythonProjects
-Misc python projects I have made
+really small projects i made a long time ago to learn python
